@@ -1,0 +1,7 @@
+E:\2nd semester Material\OOP Lab\UAMSwithCsharp\bin\Debug\UAMSwithCsharp.exe.config
+E:\2nd semester Material\OOP Lab\UAMSwithCsharp\bin\Debug\UAMSwithCsharp.exe
+E:\2nd semester Material\OOP Lab\UAMSwithCsharp\bin\Debug\UAMSwithCsharp.pdb
+E:\2nd semester Material\OOP Lab\UAMSwithCsharp\obj\Debug\UAMSwithCsharp.csproj.AssemblyReference.cache
+E:\2nd semester Material\OOP Lab\UAMSwithCsharp\obj\Debug\UAMSwithCsharp.csproj.CoreCompileInputs.cache
+E:\2nd semester Material\OOP Lab\UAMSwithCsharp\obj\Debug\UAMSwithCsharp.exe
+E:\2nd semester Material\OOP Lab\UAMSwithCsharp\obj\Debug\UAMSwithCsharp.pdb

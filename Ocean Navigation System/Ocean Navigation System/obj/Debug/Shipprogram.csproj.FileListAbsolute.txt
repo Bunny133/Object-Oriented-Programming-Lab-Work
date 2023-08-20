@@ -1,0 +1,7 @@
+E:\OOP Lab\Shipprogram\obj\Debug\Shipprogram.csproj.AssemblyReference.cache
+E:\OOP Lab\Shipprogram\obj\Debug\Shipprogram.csproj.CoreCompileInputs.cache
+E:\OOP Lab\Shipprogram\bin\Debug\Shipprogram.exe.config
+E:\OOP Lab\Shipprogram\bin\Debug\Shipprogram.exe
+E:\OOP Lab\Shipprogram\bin\Debug\Shipprogram.pdb
+E:\OOP Lab\Shipprogram\obj\Debug\Shipprogram.exe
+E:\OOP Lab\Shipprogram\obj\Debug\Shipprogram.pdb

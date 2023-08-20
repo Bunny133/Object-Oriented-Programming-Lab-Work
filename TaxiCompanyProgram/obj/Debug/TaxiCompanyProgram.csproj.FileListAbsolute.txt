@@ -1,0 +1,7 @@
+E:\2nd semester Material\OOP Lab\TaxiCompanyProgram\obj\Debug\TaxiCompanyProgram.csproj.AssemblyReference.cache
+E:\2nd semester Material\OOP Lab\TaxiCompanyProgram\obj\Debug\TaxiCompanyProgram.csproj.CoreCompileInputs.cache
+E:\2nd semester Material\OOP Lab\TaxiCompanyProgram\bin\Debug\TaxiCompanyProgram.exe.config
+E:\2nd semester Material\OOP Lab\TaxiCompanyProgram\bin\Debug\TaxiCompanyProgram.exe
+E:\2nd semester Material\OOP Lab\TaxiCompanyProgram\bin\Debug\TaxiCompanyProgram.pdb
+E:\2nd semester Material\OOP Lab\TaxiCompanyProgram\obj\Debug\TaxiCompanyProgram.exe
+E:\2nd semester Material\OOP Lab\TaxiCompanyProgram\obj\Debug\TaxiCompanyProgram.pdb

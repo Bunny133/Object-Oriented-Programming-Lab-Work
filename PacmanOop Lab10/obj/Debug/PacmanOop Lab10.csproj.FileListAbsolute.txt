@@ -1,0 +1,10 @@
+E:\2nd semester Material\OOP Lab\PacmanOop Lab10\obj\Debug\PacmanOop Lab10.csproj.AssemblyReference.cache
+E:\2nd semester Material\OOP Lab\PacmanOop Lab10\obj\Debug\PacmanOop Lab10.csproj.CoreCompileInputs.cache
+E:\2nd semester Material\OOP Lab\PacmanOop Lab10\bin\Debug\PacmanOop Lab10.exe.config
+E:\2nd semester Material\OOP Lab\PacmanOop Lab10\bin\Debug\PacmanOop Lab10.exe
+E:\2nd semester Material\OOP Lab\PacmanOop Lab10\bin\Debug\PacmanOop Lab10.pdb
+E:\2nd semester Material\OOP Lab\PacmanOop Lab10\bin\Debug\EZInput.dll
+E:\2nd semester Material\OOP Lab\PacmanOop Lab10\bin\Debug\EZInput.xml
+E:\2nd semester Material\OOP Lab\PacmanOop Lab10\obj\Debug\PacmanOop Lab10.csproj.CopyComplete
+E:\2nd semester Material\OOP Lab\PacmanOop Lab10\obj\Debug\PacmanOop Lab10.exe
+E:\2nd semester Material\OOP Lab\PacmanOop Lab10\obj\Debug\PacmanOop Lab10.pdb

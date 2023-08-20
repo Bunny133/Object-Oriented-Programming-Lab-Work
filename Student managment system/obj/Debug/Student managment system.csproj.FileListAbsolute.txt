@@ -1,0 +1,14 @@
+C:\Users\zulaikha imtiaz\source\repos\Student managment system\obj\Debug\Student managment system.csproj.AssemblyReference.cache
+C:\Users\zulaikha imtiaz\source\repos\Student managment system\obj\Debug\Student managment system.csproj.CoreCompileInputs.cache
+C:\Users\zulaikha imtiaz\source\repos\Student managment system\bin\Debug\Student managment system.exe.config
+C:\Users\zulaikha imtiaz\source\repos\Student managment system\bin\Debug\Student managment system.exe
+C:\Users\zulaikha imtiaz\source\repos\Student managment system\bin\Debug\Student managment system.pdb
+C:\Users\zulaikha imtiaz\source\repos\Student managment system\obj\Debug\Student managment system.exe
+C:\Users\zulaikha imtiaz\source\repos\Student managment system\obj\Debug\Student managment system.pdb
+E:\OOP Lab\Student managment system\bin\Debug\Student managment system.exe.config
+E:\OOP Lab\Student managment system\bin\Debug\Student managment system.exe
+E:\OOP Lab\Student managment system\bin\Debug\Student managment system.pdb
+E:\OOP Lab\Student managment system\obj\Debug\Student managment system.csproj.AssemblyReference.cache
+E:\OOP Lab\Student managment system\obj\Debug\Student managment system.csproj.CoreCompileInputs.cache
+E:\OOP Lab\Student managment system\obj\Debug\Student managment system.exe
+E:\OOP Lab\Student managment system\obj\Debug\Student managment system.pdb
